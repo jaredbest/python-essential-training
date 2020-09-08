@@ -1,3 +1,1 @@
-# Python Essential Training
-
-### By Bill Weinman on LinkedIn Learning
+Python Essential Training by Bill Weinman on LinkedIn Learning
